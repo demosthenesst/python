@@ -7,10 +7,8 @@
 ### Α Γυμνασίου
 
 <ol>
-  <li>Πρόσθεση θετικών-αρνητικών αριθμών</li>
+  <li>Πρόσθεση θετικών-αρνητικών αριθμών [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/demosthenesst/python/main/addition.ipynb)</li>
 </ol>
-
-
 
 <!-- <img src="https://cdn.pixabay.com/photo/2017/06/05/15/52/calculator-2374442_960_720.png" width="150"> -->
 
