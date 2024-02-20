@@ -4,6 +4,10 @@
 
 Δείτε τα φύλλα δραστηριοτήτων πιέζοντας εδώ: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/demosthenesst/python/main?labpath=index.ipynb)
 
+Πειραμα:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/demosthenesst/python/main?urlpath=index.ipynb)
+
 
 <!-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nikos115/math-plot/master?filepath=notebooks%2Findex.ipynb) -->
 
